@@ -1,3 +1,11 @@
+#Overall Observations
+
+We can draw many observations after analyzing the data of the Heroes of Pymoli. The key gender/age demographic are Males between the age of 20-24 years old. 44.79% of players are between 20-24 years old and 84.03% of players are Male. If we break it down further, this age demographic generates the most revenue at $1,114.06 with over 365 items purchased. Another strategy we could implement is target the age demographic of 15 to 19-year-olds. They make up an additional 18.58% of players and have the second highest total purchase revenue at $412.89. These two age demographics combined make up around 64.16% of total revenue and need to be targeted in future marketing materials/campaigns. The top two items in the game are the Final Critic and the Oathbreaker. These items could be featured more throughout game play and help drive additional revenue. Additional profitable items could be showcased as items of the month and encourage users to purchase them more frequently or potentially be offered at a discount if multiple of these items are purchased at once.  Heroes of Pymoli has a growing fan base and with the correct steps can increase in popularity and overall total revenue. 
+
+
+
+
+
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
